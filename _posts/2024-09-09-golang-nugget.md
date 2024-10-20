@@ -28,7 +28,7 @@ go telemetry off
 ```
 
 [Read more...](https://go.dev/blog/gotelemetry)
-
+{% include golang_nugget_mailerlite.html %}
 ---
 
 ### [Reading Google Sheets from a Go program](https://eli.thegreenplace.net/2024/reading-google-sheets-from-a-go-program/)
