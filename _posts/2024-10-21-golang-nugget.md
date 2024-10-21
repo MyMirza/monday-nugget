@@ -61,6 +61,8 @@ type Survey struct {
 Remember, TDD isn't about perfect code on the first try; it's about creating a safety net for experimentation and improvement. Give it a shot in your next project and see how it transforms your development process!
 
 [Read more...](https://medium.com/@robertbenyamino/test-driven-development-tdd-in-go-with-mongodb-a-practical-guide-d3a3f4233ac1?source=rss------golang-5)
+
+{% include golang_nugget_mailerlite.html %}
 ---
 
 ### [Gist of Go: Wait groups](https://antonz.org/go-concurrency/wait-groups/)
