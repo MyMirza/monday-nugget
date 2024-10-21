@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GoLang Nugget - October 21, 2024"
-date: 2024-10-21
+date: 2024-10-20
 categories: [golang]
 excerpt_separator: <!--more-->
 ---
@@ -61,7 +61,6 @@ type Survey struct {
 Remember, TDD isn't about perfect code on the first try; it's about creating a safety net for experimentation and improvement. Give it a shot in your next project and see how it transforms your development process!
 
 [Read more...](https://medium.com/@robertbenyamino/test-driven-development-tdd-in-go-with-mongodb-a-practical-guide-d3a3f4233ac1?source=rss------golang-5)
-{% include golang_nugget_mailerlite.html %}
 ---
 
 ### [Gist of Go: Wait groups](https://antonz.org/go-concurrency/wait-groups/)
@@ -275,40 +274,6 @@ func MatchLine(line []byte, pattern string) (bool, error) {
 ```
 
 [Read more...](https://medium.com/@AnnanyaPandey/building-a-custom-grep-like-pattern-matcher-in-go-40825fb9c98d?source=rss------golang-5)
-
----
-
-### [Implementing Raft: Part 4 - Key/Value Database](https://eli.thegreenplace.net/2024/implementing-raft-part-4-keyvalue-database/)
-
-In the thrilling world of distributed systems, this post dives into implementing a replicated key/value database using the Raft consensus algorithm in Go. The key takeaway is how Raft ensures strong consistency across a cluster of servers, making sure that operations like PUT, GET, and CAS (compare-and-swap) are reliably executed. The database acts as a state machine, with each server running a Raft consensus module and a data store. The Raft module handles consensus, while the data store executes commands once consensus is reached.
-
-Here's a quick look at the command structure:
-
-```go
-type Command struct {
-  Kind CommandKind
-  Key, Value string
-  CompareValue string
-  ResultValue string
-  ResultFound bool
-  Id int
-}
-
-type CommandKind int
-
-const (
-  CommandInvalid CommandKind = iota
-  CommandGet
-  CommandPut
-  CommandCAS
-)
-```
-
-The system architecture involves a REST API for client interaction, with a client library that manages leader election and retries. The client library is crucial for handling network partitions and leader changes, ensuring that requests are directed to the current leader. The post also highlights the importance of processing even read-only operations like GET through the Raft log to maintain linearizability and avoid stale reads.
-
-In essence, this implementation showcases how to build a strongly consistent distributed KV store using Raft, emphasizing the importance of consensus in maintaining data integrity across a distributed system.
-
-[Read more...](https://eli.thegreenplace.net/2024/implementing-raft-part-4-keyvalue-database/)
 
 ---
 
