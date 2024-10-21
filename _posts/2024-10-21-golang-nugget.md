@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GoLang Nugget - October 21, 2024"
-date: 2024-10-20
+date: 2024-10-21
 categories: [golang]
 excerpt_separator: <!--more-->
 ---
