@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Golang
+title: Golang Nugget
 category: golang
 permalink: /golang/
 pagination: 
