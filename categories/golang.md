@@ -1,6 +1,6 @@
 ---
 layout: home
-title: GoLang
+title: Golang
 category: golang
 permalink: /golang/
 pagination: 

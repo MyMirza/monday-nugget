@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "GoLang Nugget - September 23, 2024"
+title: "Golang Nugget - September 23, 2024"
 date: 2024-09-23
 categories: [golang]
 excerpt_separator: <!--more-->
 ---
-Welcome to this week's edition of **GoLang Nugget**, your go-to source for the latest insights and updates in the Go programming world.
+Welcome to this week's edition of **Golang Nugget**, your go-to source for the latest insights and updates in the Go programming world.
 
 In our first highlight, we delve into the world of package-level logging in Go, inspired by Java's log4j. Discover how you can achieve detailed logging for specific code sections without recompilation using popular Go logging frameworks like Zap and Logrus. Learn about the pros and cons of each approach and explore the author's prototypes available on GitHub.
 

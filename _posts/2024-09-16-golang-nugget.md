@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "GoLang Nugget - September 16, 2024"
+title: "Golang Nugget - September 16, 2024"
 date: 2024-09-16
 categories: [golang]
 excerpt_separator: <!--more-->
 ---
-Welcome to this week's edition of **GoLang Nugget**, your go-to source for all things Go!
+Welcome to this week's edition of **Golang Nugget**, your go-to source for all things Go!
 
 In this issue, we dive into the world of Go binaries, exploring the differences between static and dynamic linking. Discover how to make your Go programs more portable and secure by choosing the right linking method.
 

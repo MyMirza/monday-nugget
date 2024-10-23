@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "GoLang Nugget - October 14, 2024"
+title: "Golang Nugget - October 14, 2024"
 date: 2024-10-14
 categories: [golang]
 excerpt_separator: <!--more-->
 ---
-Welcome to this week's edition of **GoLang Nugget**, your go-to source for the latest insights and tips in the Go programming world.
+Welcome to this week's edition of **Golang Nugget**, your go-to source for the latest insights and tips in the Go programming world.
 
 Dive into Go's unique concurrency model, where communication through channels takes center stage, simplifying synchronization and enhancing code clarity. Learn how to harness the power of goroutines for efficient concurrent programming.
 

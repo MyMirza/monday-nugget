@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "GoLang Nugget - September 2, 2024"
+title: "Golang Nugget - September 2, 2024"
 date: 2024-09-02
 categories: [golang]
 excerpt_separator: <!--more-->
 ---
-Welcome to this week's edition of **GoLang Nugget**, your go-to source for the latest insights and updates in the Go programming world!
+Welcome to this week's edition of **Golang Nugget**, your go-to source for the latest insights and updates in the Go programming world!
 
 This week, we dive into the performance showdown between gRPC+Protobuf and HTTP+JSON, revealing some surprising results that challenge common assumptions about speed and efficiency.
 

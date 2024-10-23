@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "GoLang Nugget - September 9, 2024"
+title: "Golang Nugget - September 9, 2024"
 date: 2024-09-09
 categories: [golang]
 excerpt_separator: <!--more-->
 ---
-Welcome to this week's edition of **GoLang Nugget**, your go-to source for the latest in the Go programming world.
+Welcome to this week's edition of **Golang Nugget**, your go-to source for the latest in the Go programming world.
 
 This week, we dive into the new telemetry features introduced in Go 1.23. Telemetry helps improve the Go toolchain by collecting data to fix bugs and make informed decisions. Learn how to enable or disable telemetry and discover its role in enhancing Go's growth.
 

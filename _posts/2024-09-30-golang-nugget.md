@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "GoLang Nugget - September 30, 2024"
+title: "Golang Nugget - September 30, 2024"
 date: 2024-09-30
 categories: [golang]
 excerpt_separator: <!--more-->
 ---
-Welcome to this week's edition of **GoLang Nugget**, your go-to source for the latest insights and tips in the Go programming world.
+Welcome to this week's edition of **Golang Nugget**, your go-to source for the latest insights and tips in the Go programming world.
 
 In this issue, we dive into the concept of probabilistic early expiration in Go, a technique designed to tackle cache stampedes. These occur when multiple requests hit an empty cache simultaneously, leading to resource strain and potential service disruptions.
 

@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "GoLang Nugget - October 21, 2024"
+title: "Golang Nugget - October 21, 2024"
 date: 2024-10-21
 categories: [golang]
 excerpt_separator: <!--more-->
 ---
-Welcome to this week's edition of **GoLang Nugget**, your go-to source for the latest insights and tips in the Go programming world!
+Welcome to this week's edition of **Golang Nugget**, your go-to source for the latest insights and tips in the Go programming world!
 
 This week, we dive into the transformative power of Test-Driven Development (TDD) in Go, especially when paired with MongoDB. Discover how TDD can optimize your code, clarify requirements, and enhance productivity by catching bugs early.
 
