@@ -8,3 +8,7 @@ pagination:
   category: golang
   permalink: /:num/
 ---
+
+{% include mailerlite_golang_nugget_catpage.html %}
+
+

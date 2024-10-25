@@ -27,4 +27,4 @@ func (pv probabilisticValue) shouldUpdate() bool {
 ```
 
 [Read more...](https://dizzy.zone/2024/09/23/Probabilistic-Early-Expiration-in-Go/)
-{% include golang_nugget_mailerlite.html %}
+{% include mailerlite_golang_nugget_postpage.html %}

@@ -43,7 +43,7 @@ func NewProductionLogger(namespace string) *zap.Logger {
 ```
 
 [Read more...](https://dolthub.com/blog/2024-09-13-package-scoped-logging-in-go-log4j/)
-{% include golang_nugget_mailerlite.html %}
+{% include mailerlite_golang_nugget_postpage.html %}
 ---
 
 ### [What's in an (Alias) Name?](https://go.dev/blog/alias-names)

@@ -23,6 +23,9 @@ Finally, we cover the essentials of mocking in Go with gomock, a powerful tool f
 
 Stay tuned for more insights and happy coding!
 <!--more-->
+
+{% include mailerlite_golang_nugget_postpage.html %}
+
 ### [Test-Driven Development (TDD) in Go with MongoDB: A Practical Guide](https://medium.com/@robertbenyamino/test-driven-development-tdd-in-go-with-mongodb-a-practical-guide-d3a3f4233ac1?source=rss------golang-5)
 
 Imagine constantly battling bugs in your backend code, or your code works in development but breaks in production. Enter Test-Driven Development (TDD), a methodology that flips traditional coding on its head by writing tests before the actual code. Here's why TDD is a game-changer:
@@ -62,7 +65,6 @@ Remember, TDD isn't about perfect code on the first try; it's about creating a s
 
 [Read more...](https://medium.com/@robertbenyamino/test-driven-development-tdd-in-go-with-mongodb-a-practical-guide-d3a3f4233ac1?source=rss------golang-5)
 
-{% include golang_nugget_mailerlite.html %}
 ---
 
 ### [Gist of Go: Wait groups](https://antonz.org/go-concurrency/wait-groups/)
