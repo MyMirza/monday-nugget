@@ -7,8 +7,7 @@ pagination:
   enabled: true
   category: golang
   permalink: /:num/
+
+before-content:
+  - mailerlite_golang_nugget_catpage.html
 ---
-
-{% include mailerlite_golang_nugget_catpage.html %}
-
-
