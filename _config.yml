@@ -96,6 +96,8 @@ share-links-active:
   reddit: true
   vk: false
 
+url: https://mondaynugget.com
+
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
 url-pretty: "MondayNugget.com"
