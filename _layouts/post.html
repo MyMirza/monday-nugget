@@ -39,6 +39,10 @@ layout: base
         </div>
       {% endif %}
 
+      {% if page.social-share %}
+        {% include social-share.html %}
+      {% endif %}
+
       <div class="blog-post">
         {{ content }}
       </div>
