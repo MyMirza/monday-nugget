@@ -39,7 +39,7 @@ func TestAdd(t *testing.T) {
 This snippet tests a simple `Add` function to ensure it returns the correct sum.
 
 [Read more...](https://medium.com/@abhijith0807/writing-effective-unit-tests-in-golang-a-practical-guide-0d24444769f6?source=rss------golang-5)
-{% include mailerlite_golang_nugget_postpage.html %}
+{% include mailerlite_main_embedded.html %}
 ---
 
 ### [Golang: Some batteries not included (2021)](https://yolken.net/blog/golang-batteries-not-included)

@@ -50,7 +50,7 @@ And watch out for the `LD_PRELOAD` trick in dynamically linked binaries—it can
 Go's compilation options offer flexibility, but knowing when to use static vs dynamic linking is crucial for portability and security.
 
 [Read more...](https://packagemain.tech/p/golang-statically-and-dynamically-linked-binaries)
-{% include mailerlite_golang_nugget_postpage.html %}
+{% include mailerlite_main_embedded.html %}
 ---
 
 ### [Notes on running Go in the browser with WebAssembly](https://eli.thegreenplace.net/2024/notes-on-running-go-in-the-browser-with-webassembly/)

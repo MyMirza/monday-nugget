@@ -47,7 +47,7 @@ func main() {
 ```
 
 [Read more...](https://medium.com/@lenonrodrigues/go-tip-3-concurrency-share-by-communicating-0184473a8a9d?source=rss------golang-5)
-{% include mailerlite_golang_nugget_postpage.html %}
+{% include mailerlite_main_embedded.html %}
 ---
 
 ### [Profiling in Go: How to Profile in Development](https://medium.com/@rohmatmret/profiling-in-go-how-to-profile-in-development-dcd825fa13bd?source=rss------golang-5)

@@ -16,7 +16,7 @@ Plus, learn how to safely use Kafka production data in your testing environment 
 Join us as we unravel these topics and more, offering practical tips and real-world examples to help you navigate the ever-evolving landscape of software architecture.
 <!--more-->
 
-{% include mailerlite_architecture_nugget_postpage.html %}
+{% include mailerlite_main_embedded.html %}
 
 ### [Scaling GraphQL Subscriptions in Go with Epoll and Event Driven Architecture](https://wundergraph.com/blog/edfs_scaling_graphql_subscriptions_in_go)
 

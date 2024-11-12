@@ -20,7 +20,7 @@ Welcome to this week's **Golang Nugget**, where we dive into practical and power
 Ready to sharpen your skills? Dive in for insights, code snippets, and practical examples tailored for Gophers!
 <!--more-->
 
-{% include mailerlite_golang_nugget_postpage.html %}
+{% include mailerlite_main_embedded.html %}
 
 ### [Go I/O Closer, Seeker, WriterTo, and ReaderFrom](https://victoriametrics.com/blog/go-io-closer-seeker-readfrom-writeto/index.html)
 

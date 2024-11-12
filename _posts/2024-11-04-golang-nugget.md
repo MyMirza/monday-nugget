@@ -19,7 +19,7 @@ Whether you're optimizing performance or enhancing your application's architectu
 
 <!--more-->
 
-{% include mailerlite_golang_nugget_postpage.html %}
+{% include mailerlite_main_embedded.html %}
 
 ### [benchstat command - golang.org/x/perf/cmd/benchstat - Go Packages](https://pkg.go.dev/golang.org/x/perf/cmd/benchstat)
 

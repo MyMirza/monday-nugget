@@ -9,5 +9,5 @@ pagination:
   permalink: /:num/
 
 before-content:
-  - mailerlite_architecture_nugget_catpage.html
+  - mailerlite_main_embedded.html
 ---
