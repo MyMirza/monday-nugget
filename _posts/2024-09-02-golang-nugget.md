@@ -87,7 +87,7 @@ func CreateUser(w http.ResponseWriter, r *http.Request) {
 So, next time someone tells you gRPC is always faster, you’ve got some fresh insights to share!
 
 [Read more...](https://packagemain.tech/p/protobuf-grpc-vs-json-http)
-{% include mailerlite_main_embedded.html %}
+{% include mailerlite_golang_nugget_postpage.html %}
 ---
 
 ### [Building static binaries with Go on Linux](https://eli.thegreenplace.net/2024/building-static-binaries-with-go-on-linux/)

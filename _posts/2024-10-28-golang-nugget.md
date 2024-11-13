@@ -16,7 +16,7 @@ Debugging and Task Management: Dive into debugging Go core dumps with Delve, and
 Happy coding!
 <!--more-->
 
-{% include mailerlite_main_embedded.html %}
+{% include mailerlite_golang_nugget_postpage.html %}
 
 ### [Test coverage visualization for gRPC services](https://medium.com/@filonov.nikitkaa/test-coverage-visualization-for-grpc-services-8d5f2e69aff5?source=rss------golang-5)
 

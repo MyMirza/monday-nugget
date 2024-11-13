@@ -17,7 +17,7 @@ Happy reading, and let's build better systems together!
 
 <!--more-->
 
-{% include mailerlite_main_embedded.html %}
+{% include mailerlite_architecture_nugget_postpage.html %}
 
 ### [The Ubiquitous Master-Worker Architecture: A Technical Deep Dive](https://medium.com/@harphies/the-ubiquitous-master-worker-architecture-a-technical-deep-dive-b846eca60983?source=rss------software_architecture-5)
 

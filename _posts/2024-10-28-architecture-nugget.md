@@ -13,7 +13,7 @@ Join us as we explore real-world case studies, delve into design patterns, and u
 
 <!--more-->
 
-{% include mailerlite_main_embedded.html %}
+{% include mailerlite_architecture_nugget_postpage.html %}
 
 ### [SOLID in detail: Single Responsibility Principle in C#](https://medium.com/@ljubomirbacovic/solid-in-detail-single-responsibility-principle-in-c-6ef06b43b42b?source=rss------clean_architecture-5)
 

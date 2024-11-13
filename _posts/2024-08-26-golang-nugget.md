@@ -24,7 +24,7 @@ Stay tuned for more insights and updates in the world of Go!
 Go 1.23 has been released with several enhancements and new features. Key language changes include support for iterator functions in "for-range" loops and preview support for generic type aliases. Tool improvements feature Go telemetry for usage statistics, new go command conveniences like `go env -changed` and `go mod tidy -diff`, and updates to `go vet`. The standard library sees the addition of three new packages: iter, structs, and unique, along with improvements to time.Timer and time.Ticker. Experimental support for OpenBSD on 64-bit RISC-V and performance enhancements with profile-guided optimization are also included. Users are encouraged to read the release notes for detailed information and to report any issues. To upgrade, use `go get toolchain@go1.23.0` or `go get go@1.23.0`.
 
 [Read more...](https://go.dev/blog/go1.23)
-{% include mailerlite_main_embedded.html %}
+{% include mailerlite_golang_nugget_postpage.html %}
 ---
 
 ### [Three Ways To Think About Channels](https://dolthub.com/blog/2024-06-21-channel-three-ways/)

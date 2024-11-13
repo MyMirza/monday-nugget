@@ -24,7 +24,7 @@ Finally, we cover the essentials of mocking in Go with gomock, a powerful tool f
 Stay tuned for more insights and happy coding!
 <!--more-->
 
-{% include mailerlite_main_embedded.html %}
+{% include mailerlite_golang_nugget_postpage.html %}
 
 ### [Test-Driven Development (TDD) in Go with MongoDB: A Practical Guide](https://medium.com/@robertbenyamino/test-driven-development-tdd-in-go-with-mongodb-a-practical-guide-d3a3f4233ac1?source=rss------golang-5)
 
