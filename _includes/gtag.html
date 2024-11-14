@@ -1,47 +1,40 @@
 <!-- Cookie Consent by FreePrivacyPolicy.com https://www.FreePrivacyPolicy.com -->
-<script type="text/javascript" src="https://www.freeprivacypolicy.com/public/cookie-consent/4.1.0/cookie-consent.js" charset="UTF-8"></script>
+<script type="text/javascript" src="//www.freeprivacypolicy.com/public/cookie-consent/4.2.0/cookie-consent.js" charset="UTF-8"></script>
 <script type="text/javascript" charset="UTF-8">
     document.addEventListener('DOMContentLoaded', function () {
-        cookieconsent.run({"notice_banner_type":"simple","consent_type":"express","palette":"light","language":"en","page_load_consent_levels":["strictly-necessary"],"notice_banner_reject_button_hide":false,"preferences_center_close_button_hide":false,"page_refresh_confirmation_buttons":false,"website_name":"mondaynugget.com"});
+        cookieconsent.run({"notice_banner_type":"simple","consent_type":"express","palette":"light","language":"en","page_load_consent_levels":["strictly-necessary"],"notice_banner_reject_button_hide":false,"preferences_center_close_button_hide":false,"page_refresh_confirmation_buttons":false,"website_name":"Monday Nugget","website_privacy_policy_url":"https://mondaynugget.com/privacy-policy.html"});
     });
 </script>
 
 {% if site.gtag %}
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script type="text/plain" data-cookie-consent="tracking" async src="https://www.googletagmanager.com/gtag/js?id={{ site.gtag }}"></script>
+<!-- Google Analytics -->
 <script type="text/plain" data-cookie-consent="tracking">
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', '{{ site.gtag }}');
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', '{{ site.gtag }}');
 </script>
-<!-- Google tag (gtag.js) -->
-<script type="text/plain" data-cookie-consent="tracking" async src="https://www.googletagmanager.com/gtag/js?id=AW-10885962816">
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'AW-10885962816');
-</script>
+<!-- end of Google Analytics-->
+{% endif %}
 
-<!-- Start Quantcast Tag -->
-<script type="text/javascript" data-cookie-consent="tracking">
-  window._qevents = window._qevents || [];
-  (function() {
-    var elem = document.createElement('script');
-    elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
-    elem.async = true;
-    elem.type = "text/javascript";
-    var scpt = document.getElementsByTagName('script')[0];
-    scpt.parentNode.insertBefore(elem, scpt);
-  })();
+<!-- Quantcast Tag -->
+<script type="text/plain" data-cookie-consent="targeting">
+    window._qevents = window._qevents || [];
+    (function() {
+      var elem = document.createElement('script');
+      elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+      elem.async = true;
+      elem.type = "text/javascript";
+      var scpt = document.getElementsByTagName('script')[0];
+      scpt.parentNode.insertBefore(elem, scpt);
+    })();
 
-  window._qevents.push({
-    "qacct": "p-zXH2EaY55AYzk",
-    "labels": "_fp.event.PageView"
-  });
+    window._qevents.push({
+      "qacct": "p-zXH2EaY55AYzk",
+      "labels": "_fp.event.PageView"
+    });
 </script>
-<!-- End Quantcast tag -->
+<!-- end of Quantcast Tag-->
 
 <!-- Hotjar Tracking Code for https://mondaynugget.com -->
 <!--<script data-cookie-consent="tracking">-->
@@ -54,5 +47,3 @@
 <!--    a.appendChild(r);-->
 <!--  })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');-->
 <!--</script>-->
-
-{% endif %}
