@@ -4,6 +4,7 @@ title: "Golang Nugget - September 16, 2024"
 date: 2024-09-16
 categories: [golang]
 excerpt_separator: <!--more-->
+redirect_to: https://golangnugget.com/p/golang-nugget-september-16-2024
 ---
 Welcome to this week's edition of **Golang Nugget**, your go-to source for all things Go!
 

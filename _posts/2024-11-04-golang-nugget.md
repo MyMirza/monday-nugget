@@ -4,6 +4,7 @@ title: "Golang Nugget - November 04, 2024"
 date: 2024-11-04
 categories: [golang]
 excerpt_separator: <!--more-->
+redirect_to: https://golangnugget.com/p/golang-concurrency-benchmarks-dependency-injection-04-11-2024
 ---
 Welcome to this week's edition of **Golang Nugget** your go-to source for the latest insights and updates in the world of Go programming.
 

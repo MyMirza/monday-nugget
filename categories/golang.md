@@ -10,4 +10,6 @@ pagination:
 
 before-content:
   - mailerlite_golang_nugget_catpage.html
+
+redirect_to: https://golangnugget.com
 ---

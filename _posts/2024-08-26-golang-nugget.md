@@ -4,6 +4,7 @@ title: "Golang Nugget - August 26, 2024"
 date: 2024-08-26
 categories: [golang]
 excerpt_separator: <!--more-->
+redirect_to: https://golangnugget.com/p/go-1-23-highlights-08-26-2024
 ---
 Welcome to this week's edition of **Golang Nugget**, your go-to source for the latest in the Go programming world!
 

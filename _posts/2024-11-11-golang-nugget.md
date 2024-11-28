@@ -4,6 +4,7 @@ title: "Golang Nugget - November 11, 2024"
 date: 2024-11-11
 categories: [golang]
 excerpt_separator: <!--more-->
+redirect_to: https://golangnugget.com/p/go-tips-io-automation-memory-testing-assembler-11-11-2024
 ---
 
 Welcome to this week's **Golang Nugget**, where we dive into practical and powerful concepts every Go developer should know! This week's lineup spans a range of skills and insights:

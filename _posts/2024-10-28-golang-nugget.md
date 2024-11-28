@@ -4,6 +4,7 @@ title: "Golang Nugget - October 28, 2024"
 date: 2024-10-28
 categories: [golang]
 excerpt_separator: <!--more-->
+redirect_to: https://golangnugget.com/p/golang-grpc-testing-concurrency-debugging-tips-28-10-2024
 ---
 Welcome to this week’s edition of **Golang Nugget**, your go-to source for the latest insights and techniques in the Go programming world! This week, we’re covering:
 

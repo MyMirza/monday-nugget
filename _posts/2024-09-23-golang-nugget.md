@@ -4,6 +4,7 @@ title: "Golang Nugget - September 23, 2024"
 date: 2024-09-23
 categories: [golang]
 excerpt_separator: <!--more-->
+redirect_to: https://golangnugget.com/p/go-1-24-generic-alias-logging-23-09-2024
 ---
 Welcome to this week's edition of **Golang Nugget**, your go-to source for the latest insights and updates in the Go programming world.
 

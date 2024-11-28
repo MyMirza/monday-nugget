@@ -4,6 +4,7 @@ title: "Golang Nugget - September 9, 2024"
 date: 2024-09-09
 categories: [golang]
 excerpt_separator: <!--more-->
+redirect_to: https://golangnugget.com/p/golang-1-23-telemetry-google-sheets-database-proxies-09-09-2024
 ---
 Welcome to this week's edition of **Golang Nugget**, your go-to source for the latest in the Go programming world.
 

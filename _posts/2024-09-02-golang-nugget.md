@@ -4,6 +4,7 @@ title: "Golang Nugget - September 2, 2024"
 date: 2024-09-02
 categories: [golang]
 excerpt_separator: <!--more-->
+redirect_to: https://golangnugget.com/p/golang-grpc-vs-http-static-binaries-debugging-tools-02-09-2024
 ---
 Welcome to this week's edition of **Golang Nugget**, your go-to source for the latest insights and updates in the Go programming world!
 

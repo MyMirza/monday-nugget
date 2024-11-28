@@ -4,6 +4,7 @@ title: "Golang Nugget - November 18, 2024"
 date: 2024-11-18
 categories: [golang]
 excerpt_separator: <!--more-->
+redirect_to: https://golangnugget.com/p/scheduler-optimization-functional-options-18-11-2024
 ---
 Hey folks! Welcome to this week’s **Golang Nugget**, where I’ve rounded up some of the most interesting insights and tips from the Go community. I didn’t come up with these myself, but they’re too good not to share.
 

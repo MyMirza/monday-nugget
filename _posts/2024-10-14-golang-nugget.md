@@ -4,6 +4,7 @@ title: "Golang Nugget - October 14, 2024"
 date: 2024-10-14
 categories: [golang]
 excerpt_separator: <!--more-->
+redirect_to: https://golangnugget.com/p/insights-concurrency-profiling-migrations-fair-roadmap-14-10-2024
 ---
 Welcome to this week's edition of **Golang Nugget**, your go-to source for the latest insights and tips in the Go programming world.
 

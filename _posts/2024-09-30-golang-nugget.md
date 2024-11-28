@@ -4,6 +4,7 @@ title: "Golang Nugget - September 30, 2024"
 date: 2024-09-30
 categories: [golang]
 excerpt_separator: <!--more-->
+redirect_to: https://golangnugget.com/p/probabilistic-early-expiration-cache-stampedes-30-09-2024
 ---
 Welcome to this week's edition of **Golang Nugget**, your go-to source for the latest insights and tips in the Go programming world.
 
