@@ -10,4 +10,6 @@ pagination:
 
 before-content:
   - mailerlite_architecture_nugget_catpage.html
+
+redirect_to: https://architecturenugget.com
 ---

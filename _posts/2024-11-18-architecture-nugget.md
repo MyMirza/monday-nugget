@@ -4,6 +4,7 @@ title: "Architecture Nugget - November 18, 2024"
 date: 2024-11-18
 categories: [architecture]
 excerpt_separator: <!--more-->
+redirect_to: https://architecturenugget.com/p/architecture-nugget-encryption-tradeoffs-cloud-communication-patterns-18-11-2024
 ---
 Welcome to this week’s **Architecture Nugget**, where I’ve rounded up some of the most insightful and thought-provoking reads from the software architecture community.
 In this edition:

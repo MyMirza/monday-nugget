@@ -4,6 +4,7 @@ title: "Architecture Nugget - October 28, 2024"
 date: 2024-10-28
 categories: [architecture]
 excerpt_separator: <!--more-->
+redirect_to: https://architecturenugget.com/p/architecture-nugget-insights-and-best-practices-october-28-2024
 ---
 Welcome to **Architecture Nugget**, your go-to weekly newsletter for insights and updates in the world of software and system architecture.
 

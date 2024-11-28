@@ -4,6 +4,7 @@ title: "Architecture Nugget - November 04, 2024"
 date: 2024-11-04
 categories: [architecture]
 excerpt_separator: <!--more-->
+redirect_to: https://architecturenugget.com/p/event-driven-architecture-scalable-systems-04-11-2024
 ---
 Welcome to **Architecture Nugget** your go-to weekly newsletter for insights into the world of software and system architecture.
 

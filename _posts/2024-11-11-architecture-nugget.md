@@ -4,6 +4,7 @@ title: "Architecture Nugget - November 11, 2024"
 date: 2024-11-11
 categories: [architecture]
 excerpt_separator: <!--more-->
+redirect_to: https://architecturenugget.com/p/graphql-liskov-principle-microservices-event-driven-11-11-2024
 ---
 Welcome to **Architecture Nugget**, your go-to source for insights and updates in the world of software and system architecture.
 
