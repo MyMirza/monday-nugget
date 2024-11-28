@@ -2,6 +2,7 @@
 layout: default
 title: Cookie policy
 permalink: /cookie-policy.html
+redirect_to: https://beehiiv.com/privacy
 ---
 # Cookie Policy
 

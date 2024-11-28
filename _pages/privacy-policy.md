@@ -2,6 +2,7 @@
 layout: default
 title: Privacy Policy
 permalink: /privacy-policy.html
+redirect_to: https://beehiiv.com/privacy
 ---
 # Privacy Policy
 

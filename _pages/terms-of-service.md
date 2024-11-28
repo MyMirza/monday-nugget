@@ -2,6 +2,7 @@
 layout: default
 title: Terms Of Service
 permalink: /terms-of-service.html
+redirect_to: https://beehiiv.com/tou
 ---
 # Terms Of Service
 
